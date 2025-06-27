@@ -1,6 +1,6 @@
-# IP Locator
+# IP Info
 
-**IP Locator** is a Flutter based multi-platform app that allows users to look up the geolocation of an IP address. It automatically retrieves your public IP address (IPv6 preferred) and provides geographic and organizational details using the [ipinfo.io](https://ipinfo.io) API.
+**IP Info** is a Flutter based multi-platform app that allows users to look up the geolocation of an IP address. It automatically retrieves your public IP address (IPv6 preferred) and provides geographic and organizational details using the [ipinfo.io](https://ipinfo.io) API.
 
 ## Features
 
