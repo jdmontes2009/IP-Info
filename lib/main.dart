@@ -185,7 +185,7 @@ class _IpLookupScreenState extends State<IpLookupScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('IP Locator'),
+        title: const Text('IP Info'),
       ),
       body: GestureDetector(
         onTap: () => FocusScope.of(context).unfocus(),

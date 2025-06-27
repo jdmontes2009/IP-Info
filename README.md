@@ -1,6 +1,6 @@
 # ip_locator
 
-A simple IP loction locator for Android
+A simple IP infomation app for Android
 
 ## Getting Started
 
