@@ -22,3 +22,15 @@
 ## Screenshots
 <img src="https://github.com/user-attachments/assets/32baca96-8e09-4d81-ab84-12578ad27ce8" alt="Screenshot_20250627_015915-portrait" width="300">
 
+## Supported Platforms (Current)
+
+- Android (APK release)
+
+
+## Platforms Coming Soon
+
+- Linux (native executable)
+- Windows
+- macOS
+- iOS
+- Web
