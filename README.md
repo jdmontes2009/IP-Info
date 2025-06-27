@@ -1,21 +1,25 @@
-<<<<<<< HEAD
-# ip_locator
+# IP Locator
 
-A simple IP infomation app for Android
+**IP Locator** is a Flutter based multi-platform app that allows users to look up the geolocation of an IP address. It automatically retrieves your public IP address (IPv6 preferred) and provides geographic and organizational details using the [ipinfo.io](https://ipinfo.io) API.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Automatic detection of your public IP address
+- Manual IP address lookup
+- Displays:
+    - IP Address
+    - Country
+    - City
+    - Region
+    - Postal Code
+    - Time Zone
+    - Organization
+    - Latitude and Longitude
+- Tap coordinates to open them in your default maps application
+- Long press on any field to copy it to the clipboard
+- Modern Material You UI with dynamic theming
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To Be Added
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# IP-Info
-A simple IP infomation app for Android
->>>>>>> 49a1e45d196e8387754557e853bad982f143e823
