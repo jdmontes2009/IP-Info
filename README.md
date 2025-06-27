@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ip_locator
 
 A simple IP infomation app for Android
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# IP-Info
+A simple IP infomation app for Android
+>>>>>>> 49a1e45d196e8387754557e853bad982f143e823
