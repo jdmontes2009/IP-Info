@@ -40,19 +40,6 @@ flutter:
 
 flutter_launcher_icons:
   android: true
-  adaptive_icon_foreground: "assets/main.png"
-  adaptive_icon_background: "#e3e3e3"  # or a color you want
-  ios: true
-  web:
-    generate: true
-    image_path: "assets/main.png"
-  windows:
-    generate: true
-    image_path: "assets/main.png"
-  macos:
-    generate: true
-    image_path: "assets/main.png"
-  linux:
-    generate: true
-    image_path: "assets/main.png"
+  ios: false
   image_path: "assets/main.png"
+  dynamic_color: ^1.0.2
