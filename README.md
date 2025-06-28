@@ -28,9 +28,8 @@
 - Android (apk)
 - Linux (tar.gz)
 - Windows (zip)
-
+- Web (zip)
+- 
 ## Platforms Coming Soon
-
 - macOS
 - iOS
-- Web
