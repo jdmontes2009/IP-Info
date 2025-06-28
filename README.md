@@ -25,13 +25,12 @@
 
 ## Supported Platforms (Current)
 
-- Android (APK release)
-
+- Android (apk)
+- Linux (tar.gz)
+- Windows (zip)
 
 ## Platforms Coming Soon
 
-- Linux (native executable)
-- Windows
 - macOS
 - iOS
 - Web
