@@ -17,7 +17,7 @@ class IpLocatorApp extends StatelessWidget {
     return DynamicColorBuilder(
       builder: (ColorScheme? lightDynamic, ColorScheme? darkDynamic) {
         return MaterialApp(
-          title: 'IP Locator',
+          title: 'IP Info',
           debugShowCheckedModeBanner: false,
           themeMode: ThemeMode.system,
           theme: _buildTheme(
