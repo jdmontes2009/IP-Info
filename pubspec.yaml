@@ -1,8 +1,8 @@
-name: ip_locator
+name: ip_info
 description: "A Simple IP Locator for Android"
 publish_to: 'none' # Prevent publishing to pub.dev
 
-version: 1.0.0+1
+version: 0.1.0
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
@@ -41,7 +41,7 @@ flutter:
 flutter_launcher_icons:
   android: true
   adaptive_icon_foreground: "assets/main.png"
-  adaptive_icon_background: "#e3e3e3"  # or a color you want
+  adaptive_icon_background: "#e3e3e3"
   ios: true
   web:
     generate: true
