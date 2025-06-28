@@ -1,3 +1,4 @@
+//Basic Imports
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -132,7 +133,7 @@ class _IpLookupScreenState extends State<IpLookupScreen> {
         });
       }
     } catch (_) {
-      // Handle errors if necessary
+      // Handle errors
     }
   }
 
